@@ -32,7 +32,7 @@ class IbusTrx{
     bool tx_msg_waiting = false; // message waiting in transmit buffer
     bool rx_msg_waiting = false; // message waiting in receive buffer
     uint8_t rx_buffer[0xFF] = {0x00}; // receive bufer
-    uint8_t tx_buffer[0x10] = {0x00}; // transmit buffer
+    uint8_t tx_buffer[0xFF] = {0x00}; // transmit buffer
     uint8_t rx_bytes = 0; // number of bytes in receive buffer
     uint8_t tx_bytes = 0; // number of bytes in transmit buffer
     uint32_t t_last_rx_byte = 0; // timestamp of last byte received
