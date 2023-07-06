@@ -12,7 +12,6 @@
 
 #include "Arduino.h"
 #include "IbusMessage.h"
-#include "IbusNames.h"
 
 
 class IbusTrx{
