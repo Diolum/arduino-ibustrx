@@ -51,6 +51,10 @@ This library can be found in the Arduino library manager. Simply search for *Ibu
 
 ![schematic](https://raw.githubusercontent.com/just-oblivious/arduino-ibustrx/master/extras/basic-ibus-transmit-receive-interface.png)
 
+##### Better Arduino transmit and receive interface
+
+![schematic](https://raw.githubusercontent.com/diolum/arduino-ibustrx/master/extras/Arduino-IBUS-Adapter.png)
+
 
 ### IbusTrx example sketch
 
