@@ -2,6 +2,8 @@
 
 Arduino library for sending and receiving messages over the BMW infotainment bus (IBUS).
 
+Edited with removal of modules definition and TX Buffer augmented.
+
 
 ### IBUS Introduction
 
